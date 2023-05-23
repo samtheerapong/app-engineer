@@ -18,5 +18,19 @@ return [
     'Are you sure you want to log out?' => 'คุณแน่ใจว่าคุณต้องการที่จะออกจากระบบ?',
     'Are you sure you want to delete this item?' => 'คุณแน่ใจหรือว่าต้องการลบข้อมูลนี้หรือไม่?',
     
-    
+    // Repair
+    'Repair Number' => 'เลขแจ้ง',
+    'Requester By' => 'ผู้แจ้ง',
+    'Requester At' => 'วันแจ้ง',
+    'To Department ID' => 'ถึงแผนก',
+    'Repair Type ID' => 'ประเภท',
+    'Machine ID' => 'ชื่อเครื่องจักร',
+    'From Department ID' => 'จากแผนก',
+    'Title' => 'หัวเรื่อง',
+    'Description' => 'รายละเอียด',
+    'Priority ID' => 'ความสำคัญ',
+    'Expected Date' => 'วันคาดหวัง',
+    'Photos' => 'รูปภาพ',
+    'Status ID' => 'สถานะ',
+
 ];
